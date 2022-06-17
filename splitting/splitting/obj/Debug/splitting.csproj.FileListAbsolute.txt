@@ -1,0 +1,7 @@
+C:\Users\levva\source\repos\splitting\splitting\bin\Debug\splitting.exe.config
+C:\Users\levva\source\repos\splitting\splitting\bin\Debug\splitting.exe
+C:\Users\levva\source\repos\splitting\splitting\bin\Debug\splitting.pdb
+C:\Users\levva\source\repos\splitting\splitting\obj\Debug\splitting.csproj.AssemblyReference.cache
+C:\Users\levva\source\repos\splitting\splitting\obj\Debug\splitting.csproj.CoreCompileInputs.cache
+C:\Users\levva\source\repos\splitting\splitting\obj\Debug\splitting.exe
+C:\Users\levva\source\repos\splitting\splitting\obj\Debug\splitting.pdb
